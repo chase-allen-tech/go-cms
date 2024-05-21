@@ -11,3 +11,4 @@ public/assets/*/app-*
 public/files
 
 themes/*
+git-filter.sh
